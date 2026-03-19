@@ -1,0 +1,23 @@
+# 核心框架（不指定精确版本）
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# 向量数据库
+chromadb
+sentence-transformers
+rank-bm25
+
+# 文档加载器
+pypdf
+python-docx
+unstructured
+pandas
+openpyxl
+
+# 模型API
+dashscope
+
+# Web框架
+streamlit
